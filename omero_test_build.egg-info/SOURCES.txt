@@ -1,0 +1,16 @@
+CHANGELOG.md
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+omero_test_build/__init__.py
+omero_test_build/urls.py
+omero_test_build/views.py
+omero_test_build.egg-info/PKG-INFO
+omero_test_build.egg-info/SOURCES.txt
+omero_test_build.egg-info/dependency_links.txt
+omero_test_build.egg-info/not-zip-safe
+omero_test_build.egg-info/top_level.txt
+omero_test_build/static/omero_test_build/app.css
+omero_test_build/static/omero_test_build/app.js
+omero_test_build/templates/omero_test_build/index.html

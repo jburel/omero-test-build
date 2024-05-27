@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: omero-test-build
+Version: 0.1.0.dev0
+Summary: Testing actions PR
+Home-page: https://github.com/will-moore/omero-test-build
+Download-URL: https://github.com/will-moore/omero-test-build/v0.1.0.dev0.tar.gz
+Author: William Moore
+Author-email: ome-team@openmicroscopy.org
+License: AGPLv3
+Keywords: omero
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Environment :: Plugins
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: GNU Affero General Public License v3 
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+License-File: LICENSE
