@@ -1,0 +1,35 @@
+[build-system]
+requires = [
+    "setuptools",
+]
+
+[project]
+name = "omero-test-build"
+version = "0.1.0.dev0"
+description = "Testing actions PR"
+authors = [
+   {name = "William Moore", email = "ome-team@openmicroscopy.org"}
+]
+license = {file = "LICENSE"}
+keywords = ["omero", "omero-web"]
+classifiers = [
+    "Development Status :: 2 - Pre-Alpha",
+    "Environment :: Plugins",
+    "Intended Audience :: Developers",
+    "Intended Audience :: End Users/Desktop",
+    "License :: OSI Approved :: GNU Affero General Public License v3 ",  # noqa
+    "Natural Language :: English",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
+requires-python = ">= 3.9"
+
+[project.urls]
+Repository = "https://github.com/ome/omero-test-build"
+Download = "https://github.com/ome/omero-test-build/v0.1.0.dev0.tar.gz"
+
+[project.optional-dependencies]
+test = [
+    "pytest"
+]
